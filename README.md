@@ -1,2 +1,4 @@
-Hiçbir veri tutmayan yaptığım bu uygulama ile kart kasıp satabilir, saat kasabilir, hatta bütün oyunlardaki tüm başarımları tek tıkla açabilirsiniz.
-yan taraftaki releases kısmından .exe ye ulaşabilir ve kolay kurulum yapabilirsiniz, keyifli kullanımlar!
+🚀 yan taraftaki releases kısmından .exe ye ulaşabilir ve kolay kurulum yapabilirsiniz, keyifli kullanımlar!
+BUG/ÖNERİ/SOHBET için discord.gg/rodchaskai | www.rodchaskai.com.tr
+
+🌟Uygulama tamamen ücretsizdir. Dosyaları değiştirerek yeniden dağıtmak yasaktır.🌟
