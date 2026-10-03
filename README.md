@@ -1,4 +1,5 @@
-🚀 yan taraftaki releases kısmından .exe ye ulaşabilir ve kolay kurulum yapabilirsiniz, keyifli kullanımlar!
-BUG/ÖNERİ/SOHBET için discord.gg/rodchaskai | www.rodchaskai.com.tr
+🚀 yan taraftaki releases kısmından uygulamamıza erişebilirsiniz, keyifli kullanımlar!
+
+                  DISCORD.GG/RODCHASKAI
 
 🌟Uygulama tamamen ücretsizdir. Dosyaları değiştirerek yeniden dağıtmak yasaktır.🌟
